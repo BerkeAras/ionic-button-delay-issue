@@ -1,0 +1,7 @@
+{
+  "name": "ButtonIssueReproduction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
