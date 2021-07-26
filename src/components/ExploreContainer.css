@@ -22,3 +22,17 @@
 .container a {
   text-decoration: none;
 }
+
+.native-button {
+  background: rgb(16, 151, 254);
+  padding: 10px 14px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.native-button:focus {
+  background: red;
+}
+.native-button:active {
+  background: yellow;
+}
